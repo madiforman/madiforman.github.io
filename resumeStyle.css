@@ -1,0 +1,19 @@
+body {
+    color : #414141;
+    background-color : #EEEEEE;
+    }
+    h1 {
+        font-size: 28px;
+        text-decoration: underline;
+    }
+    h2,h3 {
+        font-size: 20 px;
+        text-decoration: underline;
+    }
+    h1,h2,h3 {
+       font-family: "Playfair Display";
+    }
+   p {
+    font-size: 12px;
+    font-family: "Playfair Display";
+   }
